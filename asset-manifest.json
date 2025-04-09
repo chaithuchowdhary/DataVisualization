@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DataVisualization/static/css/main.1448541a.css",
+    "main.js": "/DataVisualization/static/js/main.41207bae.js",
+    "static/js/453.14bbc566.chunk.js": "/DataVisualization/static/js/453.14bbc566.chunk.js",
+    "index.html": "/DataVisualization/index.html",
+    "main.1448541a.css.map": "/DataVisualization/static/css/main.1448541a.css.map",
+    "main.41207bae.js.map": "/DataVisualization/static/js/main.41207bae.js.map",
+    "453.14bbc566.chunk.js.map": "/DataVisualization/static/js/453.14bbc566.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1448541a.css",
+    "static/js/main.41207bae.js"
+  ]
+}
