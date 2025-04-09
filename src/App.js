@@ -22,7 +22,7 @@ function App() {
       <div className="tab-content">
         {activeTab === "map" && <ChoroplethMap />}
         {activeTab === "tableau" && <Tableau />}
-        {activeTab === "Bar Chart" && <DualBarChart dataUrl={"https://gist.githubusercontent.com/chaithuchowdhary/66e91b9faf1a3b91bf9ac22131dbf7cc/raw/82af525e5694cc96f5b518e90bb07c0459cf264d/income.csv"}/>}
+        {activeTab === "dualchart" && <DualBarChart dataUrl={"https://gist.githubusercontent.com/chaithuchowdhary/66e91b9faf1a3b91bf9ac22131dbf7cc/raw/82af525e5694cc96f5b518e90bb07c0459cf264d/income.csv"}/>}
       </div>
     </>
   );
