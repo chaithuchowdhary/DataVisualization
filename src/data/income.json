@@ -1,0 +1,42 @@
+[
+    {
+        "City": "Delta Junction",
+        "Mean": 242857.0
+    },
+    {
+        "City": "Short Hills",
+        "Mean": 216503.0
+    },
+    {
+        "City": "Narberth",
+        "Mean": 194426.0
+    },
+    {
+        "City": "Chevy Chase",
+        "Mean": 194157.5
+    },
+    {
+        "City": "Chantilly",
+        "Mean": 190865.0
+    },
+    {
+        "City": "Mclean",
+        "Mean": 188414.0
+    },
+    {
+        "City": "Bronxville",
+        "Mean": 188005.0
+    },
+    {
+        "City": "Agoura Hills",
+        "Mean": 182475.0
+    },
+    {
+        "City": "Ashburg",
+        "Mean": 181788.0
+    },
+    {
+        "City": "Albertson",
+        "Mean": 181057.0
+    }
+]

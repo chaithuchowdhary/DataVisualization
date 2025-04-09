@@ -1,0 +1,210 @@
+[
+    {
+        "State_Name": "Alabama",
+        "Mean": 53612.9258555133
+    },
+    {
+        "State_Name": "Alaska",
+        "Mean": 77670.2095238095
+    },
+    {
+        "State_Name": "Arizona",
+        "Mean": 62578.0713128039
+    },
+    {
+        "State_Name": "Arkansas",
+        "Mean": 52060.3617647059
+    },
+    {
+        "State_Name": "California",
+        "Mean": 78126.7378048781
+    },
+    {
+        "State_Name": "Colorado",
+        "Mean": 73322.8212927757
+    },
+    {
+        "State_Name": "Connecticut",
+        "Mean": 89227.2197183099
+    },
+    {
+        "State_Name": "Delaware",
+        "Mean": 70142.3409090909
+    },
+    {
+        "State_Name": "District of Columbia",
+        "Mean": 90668.421875
+    },
+    {
+        "State_Name": "Florida",
+        "Mean": 60887.8898254064
+    },
+    {
+        "State_Name": "Georgia",
+        "Mean": 60354.391198044
+    },
+    {
+        "State_Name": "Hawaii",
+        "Mean": 77859.5869565217
+    },
+    {
+        "State_Name": "Idaho",
+        "Mean": 56211.4429530201
+    },
+    {
+        "State_Name": "Illinois",
+        "Mean": 69067.3815513627
+    },
+    {
+        "State_Name": "Indiana",
+        "Mean": 59153.8323863636
+    },
+    {
+        "State_Name": "Iowa",
+        "Mean": 62569.1453744493
+    },
+    {
+        "State_Name": "Kansas",
+        "Mean": 61704.8188976378
+    },
+    {
+        "State_Name": "Kentucky",
+        "Mean": 55250.1629778672
+    },
+    {
+        "State_Name": "Louisiana",
+        "Mean": 55432.2641878669
+    },
+    {
+        "State_Name": "Maine",
+        "Mean": 60708.5222929936
+    },
+    {
+        "State_Name": "Maryland",
+        "Mean": 87689.6040955631
+    },
+    {
+        "State_Name": "Massachusetts",
+        "Mean": 84878.6835820896
+    },
+    {
+        "State_Name": "Michigan",
+        "Mean": 59001.1243611584
+    },
+    {
+        "State_Name": "Minnesota",
+        "Mean": 71403.9984399376
+    },
+    {
+        "State_Name": "Mississippi",
+        "Mean": 48924.0031152648
+    },
+    {
+        "State_Name": "Missouri",
+        "Mean": 56674.8828571429
+    },
+    {
+        "State_Name": "Montana",
+        "Mean": 57350.5540540541
+    },
+    {
+        "State_Name": "Nebraska",
+        "Mean": 61719.3854545455
+    },
+    {
+        "State_Name": "Nevada",
+        "Mean": 65684.120754717
+    },
+    {
+        "State_Name": "New Hampshire",
+        "Mean": 76113.5038167939
+    },
+    {
+        "State_Name": "New Jersey",
+        "Mean": 88657.6441441441
+    },
+    {
+        "State_Name": "New Mexico",
+        "Mean": 57127.075
+    },
+    {
+        "State_Name": "New York",
+        "Mean": 76201.2208333333
+    },
+    {
+        "State_Name": "North Carolina",
+        "Mean": 57750.1049180328
+    },
+    {
+        "State_Name": "North Dakota",
+        "Mean": 65137.0672268908
+    },
+    {
+        "State_Name": "Ohio",
+        "Mean": 59675.8636026686
+    },
+    {
+        "State_Name": "Oklahoma",
+        "Mean": 55121.33125
+    },
+    {
+        "State_Name": "Oregon",
+        "Mean": 63597.0490956072
+    },
+    {
+        "State_Name": "Pennsylvania",
+        "Mean": 64878.6949152542
+    },
+    {
+        "State_Name": "Puerto Rico",
+        "Mean": 27255.5763157895
+    },
+    {
+        "State_Name": "Rhode Island",
+        "Mean": 72971.1743119266
+    },
+    {
+        "State_Name": "South Carolina",
+        "Mean": 55715.2483660131
+    },
+    {
+        "State_Name": "South Dakota",
+        "Mean": 58276.9609375
+    },
+    {
+        "State_Name": "Tennessee",
+        "Mean": 56271.9524590164
+    },
+    {
+        "State_Name": "Texas",
+        "Mean": 65407.0104347826
+    },
+    {
+        "State_Name": "Utah",
+        "Mean": 72132.214559387
+    },
+    {
+        "State_Name": "Vermont",
+        "Mean": 63195.4939759036
+    },
+    {
+        "State_Name": "Virginia",
+        "Mean": 79401.7401273885
+    },
+    {
+        "State_Name": "Washington",
+        "Mean": 74067.3619186047
+    },
+    {
+        "State_Name": "West Virginia",
+        "Mean": 52291.9959677419
+    },
+    {
+        "State_Name": "Wisconsin",
+        "Mean": 64143.2551928783
+    },
+    {
+        "State_Name": "Wyoming",
+        "Mean": 67552.6666666667
+    }
+]

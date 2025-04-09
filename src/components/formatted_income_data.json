@@ -1,0 +1,1342 @@
+[
+    {
+        "state": "Alabama",
+        "mean": 53612.925855513306,
+        "cities": [
+            {
+                "city": "Mountain Brook",
+                "mean": 141936.0
+            },
+            {
+                "city": "Odenville",
+                "mean": 122838.66666666667
+            },
+            {
+                "city": "Daphne",
+                "mean": 107603.0
+            },
+            {
+                "city": "Hoover",
+                "mean": 104628.16666666667
+            },
+            {
+                "city": "Pike Road",
+                "mean": 99568.0
+            }
+        ]
+    },
+    {
+        "state": "Alaska",
+        "mean": 77670.20952380952,
+        "cities": [
+            {
+                "city": "Delta Junction",
+                "mean": 242857.0
+            },
+            {
+                "city": "Chugiak",
+                "mean": 133300.0
+            },
+            {
+                "city": "Eagle River",
+                "mean": 105052.0
+            },
+            {
+                "city": "Haines",
+                "mean": 101864.0
+            },
+            {
+                "city": "North Pole",
+                "mean": 98668.0
+            }
+        ]
+    },
+    {
+        "state": "Arizona",
+        "mean": 62578.07131280389,
+        "cities": [
+            {
+                "city": "Paradise Valley",
+                "mean": 158195.0
+            },
+            {
+                "city": "Anthem",
+                "mean": 119672.66666666667
+            },
+            {
+                "city": "Globe",
+                "mean": 113347.5
+            },
+            {
+                "city": "Higley",
+                "mean": 105824.0
+            },
+            {
+                "city": "Gilbert",
+                "mean": 101024.57142857143
+            }
+        ]
+    },
+    {
+        "state": "Arkansas",
+        "mean": 52060.361764705885,
+        "cities": [
+            {
+                "city": "Centerton",
+                "mean": 99608.0
+            },
+            {
+                "city": "Sonora",
+                "mean": 96791.0
+            },
+            {
+                "city": "White Hall",
+                "mean": 95008.0
+            },
+            {
+                "city": "Brockwell",
+                "mean": 91934.0
+            },
+            {
+                "city": "Bentonville",
+                "mean": 88334.33333333333
+            }
+        ]
+    },
+    {
+        "state": "California",
+        "mean": 78126.73780487805,
+        "cities": [
+            {
+                "city": "Agoura Hills",
+                "mean": 182475.0
+            },
+            {
+                "city": "Portola Valley",
+                "mean": 177665.0
+            },
+            {
+                "city": "Hillsborough",
+                "mean": 173210.0
+            },
+            {
+                "city": "Moraga",
+                "mean": 171929.0
+            },
+            {
+                "city": "Los Altos",
+                "mean": 165306.8
+            }
+        ]
+    },
+    {
+        "state": "Colorado",
+        "mean": 73322.82129277567,
+        "cities": [
+            {
+                "city": "Cherry Hills Village",
+                "mean": 167533.0
+            },
+            {
+                "city": "Superior",
+                "mean": 164114.0
+            },
+            {
+                "city": "Gold Hill",
+                "mean": 149502.0
+            },
+            {
+                "city": "Monument",
+                "mean": 137560.0
+            },
+            {
+                "city": "Jamestown",
+                "mean": 129356.0
+            }
+        ]
+    },
+    {
+        "state": "Connecticut",
+        "mean": 89227.21971830986,
+        "cities": [
+            {
+                "city": "Darien",
+                "mean": 192882.0
+            },
+            {
+                "city": "New Canaan",
+                "mean": 169270.0
+            },
+            {
+                "city": "Wilton",
+                "mean": 163612.66666666666
+            },
+            {
+                "city": "Fairfield",
+                "mean": 155065.85714285713
+            },
+            {
+                "city": "Avon",
+                "mean": 152937.0
+            }
+        ]
+    },
+    {
+        "state": "Delaware",
+        "mean": 70142.34090909091,
+        "cities": [
+            {
+                "city": "Hockessin",
+                "mean": 105912.0
+            },
+            {
+                "city": "Middletown",
+                "mean": 102971.0
+            },
+            {
+                "city": "Bear",
+                "mean": 102027.0
+            },
+            {
+                "city": "Rehoboth Beach",
+                "mean": 94149.5
+            },
+            {
+                "city": "Ocean View",
+                "mean": 85869.5
+            }
+        ]
+    },
+    {
+        "state": "District of Columbia",
+        "mean": 90668.421875,
+        "cities": [
+            {
+                "city": "Washington",
+                "mean": 91404.49206349206
+            },
+            {
+                "city": "Oxon Hill",
+                "mean": 44296.0
+            }
+        ]
+    },
+    {
+        "state": "Florida",
+        "mean": 60887.88982540638,
+        "cities": [
+            {
+                "city": "Southwest Ranches",
+                "mean": 156828.0
+            },
+            {
+                "city": "Windermere",
+                "mean": 145353.0
+            },
+            {
+                "city": "Palmetto Bay",
+                "mean": 134489.33333333334
+            },
+            {
+                "city": "Bay Harbor Islands",
+                "mean": 127157.66666666667
+            },
+            {
+                "city": "Aventura",
+                "mean": 122284.25
+            }
+        ]
+    },
+    {
+        "state": "Georgia",
+        "mean": 60354.39119804401,
+        "cities": [
+            {
+                "city": "Milton",
+                "mean": 138867.0
+            },
+            {
+                "city": "Johns Creek",
+                "mean": 132371.0
+            },
+            {
+                "city": "Alpharetta",
+                "mean": 120771.77777777778
+            },
+            {
+                "city": "Watkinsville",
+                "mean": 116157.0
+            },
+            {
+                "city": "Dunwoody",
+                "mean": 114678.0
+            }
+        ]
+    },
+    {
+        "state": "Hawaii",
+        "mean": 77859.58695652174,
+        "cities": [
+            {
+                "city": "Kailua",
+                "mean": 107344.85714285714
+            },
+            {
+                "city": "Pearl City",
+                "mean": 105287.33333333333
+            },
+            {
+                "city": "Kapolei",
+                "mean": 104894.0
+            },
+            {
+                "city": "Mililani",
+                "mean": 102712.5
+            },
+            {
+                "city": "Hauula",
+                "mean": 99159.0
+            }
+        ]
+    },
+    {
+        "state": "Idaho",
+        "mean": 56211.44295302014,
+        "cities": [
+            {
+                "city": "Irwin",
+                "mean": 101415.5
+            },
+            {
+                "city": "Meridian",
+                "mean": 74342.0
+            },
+            {
+                "city": "Hayden",
+                "mean": 73573.0
+            },
+            {
+                "city": "Hope",
+                "mean": 71939.0
+            },
+            {
+                "city": "Iona",
+                "mean": 71862.0
+            }
+        ]
+    },
+    {
+        "state": "Illinois",
+        "mean": 69067.38155136269,
+        "cities": [
+            {
+                "city": "Winnetka",
+                "mean": 180180.0
+            },
+            {
+                "city": "Glencoe",
+                "mean": 172218.5
+            },
+            {
+                "city": "Lake Forest",
+                "mean": 164027.0
+            },
+            {
+                "city": "South Barrington",
+                "mean": 164017.0
+            },
+            {
+                "city": "Hinsdale",
+                "mean": 160991.0
+            }
+        ]
+    },
+    {
+        "state": "Indiana",
+        "mean": 59153.83238636364,
+        "cities": [
+            {
+                "city": "Carmel",
+                "mean": 116447.4
+            },
+            {
+                "city": "Porter",
+                "mean": 111784.0
+            },
+            {
+                "city": "Georgetown",
+                "mean": 107628.0
+            },
+            {
+                "city": "Granger",
+                "mean": 106990.0
+            },
+            {
+                "city": "Hebron",
+                "mean": 100910.0
+            }
+        ]
+    },
+    {
+        "state": "Iowa",
+        "mean": 62569.14537444934,
+        "cities": [
+            {
+                "city": "Johnston",
+                "mean": 125510.0
+            },
+            {
+                "city": "Slater",
+                "mean": 119378.0
+            },
+            {
+                "city": "Waukee",
+                "mean": 110120.0
+            },
+            {
+                "city": "Inwood",
+                "mean": 103589.0
+            },
+            {
+                "city": "West Des Moines",
+                "mean": 100885.4
+            }
+        ]
+    },
+    {
+        "state": "Kansas",
+        "mean": 61704.81889763779,
+        "cities": [
+            {
+                "city": "Shawnee",
+                "mean": 136646.5
+            },
+            {
+                "city": "Leawood",
+                "mean": 135651.5
+            },
+            {
+                "city": "Overland Park",
+                "mean": 107303.125
+            },
+            {
+                "city": "Stilwell",
+                "mean": 106294.0
+            },
+            {
+                "city": "Mulvane",
+                "mean": 105877.0
+            }
+        ]
+    },
+    {
+        "state": "Kentucky",
+        "mean": 55250.16297786721,
+        "cities": [
+            {
+                "city": "Prospect",
+                "mean": 145570.0
+            },
+            {
+                "city": "Jeffersonville",
+                "mean": 140806.0
+            },
+            {
+                "city": "Simpsonville",
+                "mean": 134599.0
+            },
+            {
+                "city": "Union",
+                "mean": 109176.0
+            },
+            {
+                "city": "Crestwood",
+                "mean": 109095.75
+            }
+        ]
+    },
+    {
+        "state": "Louisiana",
+        "mean": 55432.26418786693,
+        "cities": [
+            {
+                "city": "Madisonville",
+                "mean": 119338.5
+            },
+            {
+                "city": "Mandeville",
+                "mean": 116183.5
+            },
+            {
+                "city": "Milton",
+                "mean": 107765.0
+            },
+            {
+                "city": "Elm Grove",
+                "mean": 106782.0
+            },
+            {
+                "city": "Youngsville",
+                "mean": 103089.5
+            }
+        ]
+    },
+    {
+        "state": "Maine",
+        "mean": 60708.52229299363,
+        "cities": [
+            {
+                "city": "Cape Elizabeth",
+                "mean": 119928.0
+            },
+            {
+                "city": "Kennebunk",
+                "mean": 118117.0
+            },
+            {
+                "city": "Long Island",
+                "mean": 113773.0
+            },
+            {
+                "city": "North Yarmouth",
+                "mean": 103450.0
+            },
+            {
+                "city": "Yarmouth",
+                "mean": 102660.0
+            }
+        ]
+    },
+    {
+        "state": "Maryland",
+        "mean": 87689.60409556315,
+        "cities": [
+            {
+                "city": "Chevy Chase",
+                "mean": 194157.5
+            },
+            {
+                "city": "Clarksville",
+                "mean": 170772.0
+            },
+            {
+                "city": "Fulton",
+                "mean": 161706.5
+            },
+            {
+                "city": "Bethesda",
+                "mean": 160056.8
+            },
+            {
+                "city": "Potomac",
+                "mean": 154307.25
+            }
+        ]
+    },
+    {
+        "state": "Massachusetts",
+        "mean": 84878.68358208955,
+        "cities": [
+            {
+                "city": "Weston",
+                "mean": 175409.0
+            },
+            {
+                "city": "Wellesley",
+                "mean": 169853.0
+            },
+            {
+                "city": "Dover",
+                "mean": 166918.0
+            },
+            {
+                "city": "Sudbury",
+                "mean": 163820.5
+            },
+            {
+                "city": "Southborough",
+                "mean": 157890.0
+            }
+        ]
+    },
+    {
+        "state": "Michigan",
+        "mean": 59001.124361158436,
+        "cities": [
+            {
+                "city": "Bloomfield Hills",
+                "mean": 135910.5
+            },
+            {
+                "city": "Huntington Woods",
+                "mean": 130922.0
+            },
+            {
+                "city": "Birmingham",
+                "mean": 127330.66666666667
+            },
+            {
+                "city": "Grosse Pointe Farms",
+                "mean": 127188.25
+            },
+            {
+                "city": "Rochester",
+                "mean": 122633.5
+            }
+        ]
+    },
+    {
+        "state": "Minnesota",
+        "mean": 71403.9984399376,
+        "cities": [
+            {
+                "city": "Victoria",
+                "mean": 148277.0
+            },
+            {
+                "city": "Lake Elmo",
+                "mean": 141151.0
+            },
+            {
+                "city": "Chanhassen",
+                "mean": 140455.0
+            },
+            {
+                "city": "Minnetrista",
+                "mean": 138355.0
+            },
+            {
+                "city": "Edina",
+                "mean": 129952.4
+            }
+        ]
+    },
+    {
+        "state": "Mississippi",
+        "mean": 48924.0031152648,
+        "cities": [
+            {
+                "city": "Coldwater",
+                "mean": 116102.0
+            },
+            {
+                "city": "Madison",
+                "mean": 111266.66666666667
+            },
+            {
+                "city": "Hernando",
+                "mean": 89698.0
+            },
+            {
+                "city": "Whitfield",
+                "mean": 89000.0
+            },
+            {
+                "city": "Flowood",
+                "mean": 88571.5
+            }
+        ]
+    },
+    {
+        "state": "Missouri",
+        "mean": 56674.88285714286,
+        "cities": [
+            {
+                "city": "Town And Country",
+                "mean": 164799.0
+            },
+            {
+                "city": "Brentwood",
+                "mean": 162436.0
+            },
+            {
+                "city": "Dardenne Prairie",
+                "mean": 140172.0
+            },
+            {
+                "city": "Clayton",
+                "mean": 124222.66666666667
+            },
+            {
+                "city": "Chesterfield",
+                "mean": 118630.0
+            }
+        ]
+    },
+    {
+        "state": "Montana",
+        "mean": 57350.55405405405,
+        "cities": [
+            {
+                "city": "Colstrip",
+                "mean": 94853.0
+            },
+            {
+                "city": "Manhattan",
+                "mean": 89536.0
+            },
+            {
+                "city": "Sidney",
+                "mean": 84828.0
+            },
+            {
+                "city": "Nye",
+                "mean": 82305.0
+            },
+            {
+                "city": "Ulm",
+                "mean": 78770.0
+            }
+        ]
+    },
+    {
+        "state": "Nebraska",
+        "mean": 61719.38545454545,
+        "cities": [
+            {
+                "city": "Boys Town",
+                "mean": 161310.0
+            },
+            {
+                "city": "Elkhorn",
+                "mean": 104667.0
+            },
+            {
+                "city": "Papillion",
+                "mean": 104359.0
+            },
+            {
+                "city": "Bennet",
+                "mean": 93771.0
+            },
+            {
+                "city": "Gretna",
+                "mean": 91411.33333333333
+            }
+        ]
+    },
+    {
+        "state": "Nevada",
+        "mean": 65684.12075471698,
+        "cities": [
+            {
+                "city": "Winnemucca",
+                "mean": 114277.0
+            },
+            {
+                "city": "Zephyr Cove",
+                "mean": 112431.33333333333
+            },
+            {
+                "city": "Verdi",
+                "mean": 101010.0
+            },
+            {
+                "city": "Carlin",
+                "mean": 97039.0
+            },
+            {
+                "city": "Spring Creek",
+                "mean": 91493.0
+            }
+        ]
+    },
+    {
+        "state": "New Hampshire",
+        "mean": 76113.50381679389,
+        "cities": [
+            {
+                "city": "Hanover",
+                "mean": 157407.0
+            },
+            {
+                "city": "Contoocook",
+                "mean": 126550.0
+            },
+            {
+                "city": "Stratham",
+                "mean": 124010.0
+            },
+            {
+                "city": "Bedford",
+                "mean": 123333.0
+            },
+            {
+                "city": "Pelham",
+                "mean": 122178.0
+            }
+        ]
+    },
+    {
+        "state": "New Jersey",
+        "mean": 88657.64414414414,
+        "cities": [
+            {
+                "city": "Short Hills",
+                "mean": 216503.0
+            },
+            {
+                "city": "Upper Saddle River",
+                "mean": 174859.0
+            },
+            {
+                "city": "N Caldwell",
+                "mean": 170374.5
+            },
+            {
+                "city": "Manalapan",
+                "mean": 168254.5
+            },
+            {
+                "city": "Little Silver",
+                "mean": 168139.0
+            }
+        ]
+    },
+    {
+        "state": "New Mexico",
+        "mean": 57127.075,
+        "cities": [
+            {
+                "city": "Los Alamos",
+                "mean": 115840.75
+            },
+            {
+                "city": "Rio Rancho",
+                "mean": 84943.0
+            },
+            {
+                "city": "Tijeras",
+                "mean": 81248.0
+            },
+            {
+                "city": "Tatum",
+                "mean": 80419.0
+            },
+            {
+                "city": "Eunice",
+                "mean": 75099.0
+            }
+        ]
+    },
+    {
+        "state": "New York",
+        "mean": 76201.22083333334,
+        "cities": [
+            {
+                "city": "Pelham",
+                "mean": 190909.0
+            },
+            {
+                "city": "Bronxville",
+                "mean": 188005.0
+            },
+            {
+                "city": "Albertson",
+                "mean": 181057.0
+            },
+            {
+                "city": "Rye",
+                "mean": 176084.0
+            },
+            {
+                "city": "Pound Ridge",
+                "mean": 161993.0
+            }
+        ]
+    },
+    {
+        "state": "North Carolina",
+        "mean": 57750.10491803279,
+        "cities": [
+            {
+                "city": "Davidson",
+                "mean": 140057.0
+            },
+            {
+                "city": "Summerfield",
+                "mean": 120146.0
+            },
+            {
+                "city": "Apex",
+                "mean": 113786.5
+            },
+            {
+                "city": "Cary",
+                "mean": 109838.14285714286
+            },
+            {
+                "city": "Morrisville",
+                "mean": 106140.0
+            }
+        ]
+    },
+    {
+        "state": "North Dakota",
+        "mean": 65137.06722689076,
+        "cities": [
+            {
+                "city": "Williston",
+                "mean": 115516.0
+            },
+            {
+                "city": "Munich",
+                "mean": 110882.0
+            },
+            {
+                "city": "Lincoln",
+                "mean": 100896.0
+            },
+            {
+                "city": "Ray",
+                "mean": 98070.0
+            },
+            {
+                "city": "Thompson",
+                "mean": 95840.5
+            }
+        ]
+    },
+    {
+        "state": "Ohio",
+        "mean": 59675.86360266864,
+        "cities": [
+            {
+                "city": "Hudson",
+                "mean": 143188.25
+            },
+            {
+                "city": "Pepper Pike",
+                "mean": 135426.0
+            },
+            {
+                "city": "Olmsted Falls",
+                "mean": 134124.0
+            },
+            {
+                "city": "Galena",
+                "mean": 131494.0
+            },
+            {
+                "city": "Maineville",
+                "mean": 130212.0
+            }
+        ]
+    },
+    {
+        "state": "Oklahoma",
+        "mean": 55121.33125,
+        "cities": [
+            {
+                "city": "Edmond",
+                "mean": 109995.66666666667
+            },
+            {
+                "city": "Bixby",
+                "mean": 96586.0
+            },
+            {
+                "city": "Elk City",
+                "mean": 96349.0
+            },
+            {
+                "city": "Jenks",
+                "mean": 91538.75
+            },
+            {
+                "city": "Piedmont",
+                "mean": 90665.0
+            }
+        ]
+    },
+    {
+        "state": "Oregon",
+        "mean": 63597.04909560723,
+        "cities": [
+            {
+                "city": "West Linn",
+                "mean": 122818.0
+            },
+            {
+                "city": "Happy Valley",
+                "mean": 121885.0
+            },
+            {
+                "city": "Scio",
+                "mean": 96536.0
+            },
+            {
+                "city": "Lake Oswego",
+                "mean": 95924.25
+            },
+            {
+                "city": "Newberg",
+                "mean": 93936.5
+            }
+        ]
+    },
+    {
+        "state": "Pennsylvania",
+        "mean": 64878.69491525424,
+        "cities": [
+            {
+                "city": "Narberth",
+                "mean": 194426.0
+            },
+            {
+                "city": "Gladwyne",
+                "mean": 178869.0
+            },
+            {
+                "city": "Berwyn",
+                "mean": 158724.0
+            },
+            {
+                "city": "New Hope",
+                "mean": 155990.0
+            },
+            {
+                "city": "Chester Springs",
+                "mean": 154156.0
+            }
+        ]
+    },
+    {
+        "state": "Puerto Rico",
+        "mean": 27255.576315789473,
+        "cities": [
+            {
+                "city": "Fort Buchanan",
+                "mean": 70323.0
+            },
+            {
+                "city": "Guaynabo",
+                "mean": 46241.2
+            },
+            {
+                "city": "Canovanas",
+                "mean": 42324.0
+            },
+            {
+                "city": "Trujillo Alto",
+                "mean": 37596.0
+            },
+            {
+                "city": "San German",
+                "mean": 35797.0
+            }
+        ]
+    },
+    {
+        "state": "Rhode Island",
+        "mean": 72971.1743119266,
+        "cities": [
+            {
+                "city": "Barrington",
+                "mean": 131964.5
+            },
+            {
+                "city": "Clayville",
+                "mean": 129181.0
+            },
+            {
+                "city": "Seekonk",
+                "mean": 123912.0
+            },
+            {
+                "city": "East Greenwich",
+                "mean": 117738.0
+            },
+            {
+                "city": "Jamestown",
+                "mean": 108607.0
+            }
+        ]
+    },
+    {
+        "state": "South Carolina",
+        "mean": 55715.248366013075,
+        "cities": [
+            {
+                "city": "Charlotte",
+                "mean": 131786.0
+            },
+            {
+                "city": "Johns Island",
+                "mean": 122823.0
+            },
+            {
+                "city": "Fort Mill",
+                "mean": 101547.0
+            },
+            {
+                "city": "Chapin",
+                "mean": 100239.0
+            },
+            {
+                "city": "Pauline",
+                "mean": 98277.0
+            }
+        ]
+    },
+    {
+        "state": "South Dakota",
+        "mean": 58276.9609375,
+        "cities": [
+            {
+                "city": "Estelline",
+                "mean": 94107.0
+            },
+            {
+                "city": "Ipswich",
+                "mean": 88800.0
+            },
+            {
+                "city": "Madison",
+                "mean": 86907.0
+            },
+            {
+                "city": "Renner",
+                "mean": 81424.5
+            },
+            {
+                "city": "Hayti",
+                "mean": 80501.0
+            }
+        ]
+    },
+    {
+        "state": "Tennessee",
+        "mean": 56271.95245901639,
+        "cities": [
+            {
+                "city": "Lookout Mtn",
+                "mean": 130813.0
+            },
+            {
+                "city": "Brentwood",
+                "mean": 120246.28571428571
+            },
+            {
+                "city": "Apison",
+                "mean": 113344.0
+            },
+            {
+                "city": "Spring Hill",
+                "mean": 111931.0
+            },
+            {
+                "city": "Thompson's Station",
+                "mean": 111205.0
+            }
+        ]
+    },
+    {
+        "state": "Texas",
+        "mean": 65407.010434782605,
+        "cities": [
+            {
+                "city": "Southlake",
+                "mean": 158531.0
+            },
+            {
+                "city": "Fulshear",
+                "mean": 157504.0
+            },
+            {
+                "city": "Argyle",
+                "mean": 149017.0
+            },
+            {
+                "city": "Colleyville",
+                "mean": 145999.5
+            },
+            {
+                "city": "Fair Oaks Ranch",
+                "mean": 142688.0
+            }
+        ]
+    },
+    {
+        "state": "Utah",
+        "mean": 72132.21455938698,
+        "cities": [
+            {
+                "city": "Highland",
+                "mean": 136964.5
+            },
+            {
+                "city": "South Weber",
+                "mean": 135672.0
+            },
+            {
+                "city": "Draper",
+                "mean": 131085.0
+            },
+            {
+                "city": "Saratoga Springs",
+                "mean": 118091.0
+            },
+            {
+                "city": "Park City",
+                "mean": 116005.0
+            }
+        ]
+    },
+    {
+        "state": "Vermont",
+        "mean": 63195.49397590361,
+        "cities": [
+            {
+                "city": "Jericho",
+                "mean": 109148.0
+            },
+            {
+                "city": "Addison",
+                "mean": 97158.0
+            },
+            {
+                "city": "Underhill Center",
+                "mean": 96753.0
+            },
+            {
+                "city": "Starksboro",
+                "mean": 91764.0
+            },
+            {
+                "city": "Quechee",
+                "mean": 91106.5
+            }
+        ]
+    },
+    {
+        "state": "Virginia",
+        "mean": 79401.74012738853,
+        "cities": [
+            {
+                "city": "Great Falls",
+                "mean": 192103.5
+            },
+            {
+                "city": "Chantilly",
+                "mean": 190865.0
+            },
+            {
+                "city": "Mclean",
+                "mean": 188414.0
+            },
+            {
+                "city": "Ashburg",
+                "mean": 181788.0
+            },
+            {
+                "city": "Clifton",
+                "mean": 167544.0
+            }
+        ]
+    },
+    {
+        "state": "Washington",
+        "mean": 74067.36191860466,
+        "cities": [
+            {
+                "city": "Mercer Island",
+                "mean": 167705.5
+            },
+            {
+                "city": "Sammamish",
+                "mean": 155794.75
+            },
+            {
+                "city": "Redmond",
+                "mean": 133288.875
+            },
+            {
+                "city": "Carnation",
+                "mean": 130437.5
+            },
+            {
+                "city": "Woodinville",
+                "mean": 128102.2
+            }
+        ]
+    },
+    {
+        "state": "West Virginia",
+        "mean": 52291.99596774193,
+        "cities": [
+            {
+                "city": "Shepherdstown",
+                "mean": 94243.0
+            },
+            {
+                "city": "Harpers Ferry",
+                "mean": 87588.0
+            },
+            {
+                "city": "Pickens",
+                "mean": 81695.0
+            },
+            {
+                "city": "Hurricane",
+                "mean": 80061.66666666667
+            },
+            {
+                "city": "Stanaford",
+                "mean": 78008.0
+            }
+        ]
+    },
+    {
+        "state": "Wisconsin",
+        "mean": 64143.255192878336,
+        "cities": [
+            {
+                "city": "North Lake",
+                "mean": 160423.0
+            },
+            {
+                "city": "Brookfield",
+                "mean": 140768.0
+            },
+            {
+                "city": "Elm Grove",
+                "mean": 129814.0
+            },
+            {
+                "city": "Waunakee",
+                "mean": 128827.5
+            },
+            {
+                "city": "Germantown",
+                "mean": 121533.0
+            }
+        ]
+    },
+    {
+        "state": "Wyoming",
+        "mean": 67552.66666666667,
+        "cities": [
+            {
+                "city": "Green River",
+                "mean": 105562.0
+            },
+            {
+                "city": "Wright",
+                "mean": 98281.0
+            },
+            {
+                "city": "Pinedale",
+                "mean": 94204.0
+            },
+            {
+                "city": "Gillette",
+                "mean": 92205.0
+            },
+            {
+                "city": "Jackson",
+                "mean": 90904.5
+            }
+        ]
+    }
+]
