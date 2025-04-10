@@ -3,7 +3,6 @@ import ChoroplethMap from "./components/ChoroplethMap";
 import Tableau from "./components/Tableau";
 import "./App.css";
 import DualBarChart from "./components/DualBarChart";
-import HtmlViewer from "./components/Python";
 import Python from "./components/Python";
 import indexLine from './data/indexed_line.json'
 import gantt from './data/gantt_chart.json'
