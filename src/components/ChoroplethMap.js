@@ -47,7 +47,7 @@ export default function ChoroplethMap() {
     console.log("Rendering map with income data length:", incomeData.length);
 
     const svg = d3.select(svgRef.current);
-    const width = 700; // Reduced map width to make room for chart
+    const width = 700;  
     const height = 500;
     const margin = { top: 40, right: 40, bottom: 40, left: 40 };
 
